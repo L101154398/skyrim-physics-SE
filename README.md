@@ -1,0 +1,2 @@
+# skyrim-physics-SE
+mod
